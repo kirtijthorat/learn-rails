@@ -1,4 +1,4 @@
-source 'https://rubygems.org
+source 'https://rubygems.org'
 
 ruby '2.0.0'
 gem 'rails', '4.0.2'
@@ -9,7 +9,7 @@ gem 'jquery-rails'
 gem 'turbolinks'
 gem 'jbuilder', '~> 1.2'
 gem 'activerecord-tableless'
-gem 'compass-rails', '~> 2.0.alpha.0'
+gem 'compass-rails', '~> 1.1.7'
 gem 'figaro'
 gem 'gibbon'
 gem 'google_drive'
